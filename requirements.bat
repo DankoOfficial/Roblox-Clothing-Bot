@@ -1,3 +1,3 @@
 @echo off
-pip install requests colorama pystyle webview
+pip install requests colorama pystyle pywebview
 pause
